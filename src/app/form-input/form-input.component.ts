@@ -18,6 +18,7 @@ export class FormInputComponent implements OnInit {
 
   constructor() { }
 
+  // life cycle hook
   ngOnInit(): void {
   }
 
